@@ -8,13 +8,13 @@
 - Install dependencies\
 
 ```sh
-yarn
+npm install
 ```
 
 - Start Dev Server\
 
 ```sh
-yarn dev
+npm run dev
 ```
 
 - The Output will not have red background even though it is mentioned in inlined css of `index.html` file.
